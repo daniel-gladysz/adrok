@@ -94,49 +94,31 @@
 
           <ul class="breadcrumbs">
             <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li><a href="coal.php">05 Coal</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>5.1 Case Study 00152CM_OMK</li>
+            <li><a href="petroleum-oklahoma.php">11 Petroleum - Oklahoma</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>11.1 ADROK Oklahoma PR (1) 2010-August</li>
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="single-article__content">
-            <h2>Efficacy test of the application of ADR technology to commercial coal exploration for coal layers and related pathfinder stratigraphy in Coal Mountain, Canada.</h2>
-            <h3>Project aims</h3>
-            <p>The objectives of the geophysical survey at Coal Mountain using ADR scanner methods were firstly, to determine the depth of the coal seam and map how it bends in the subsurface, and secondly, to locate the abandoned mine workings above the coal seam. The field survey was conducted in July 2013 by Adrok on behalf of Teck Resources Limited (“TRL”) in Coal Mountain, Canada. A total of twelve virtual borehole sites were scanned by Adrok.</p>
-            <h3>Exploration/Project challenges</h3>
-            <p>The project challenge was to check if ADR technology could find thin coal seams and old mine workings in depth.</p>
-            <h3>Geological context</h3>
-            <p>Coal Mountain is located 30 kilometres southeast of Sparwood in south-eastern British Columbia<sup>1</sup>. The open-pit coal mine at Coal Mountain in the Elk Valley area is operated by Teck Coal Limited, which is the world’s second-largest exporter of metallurgical coal. The main product shipped from Coal Mountain mine is Pulverized Coal Injection (PCI) coal<sup>2</sup>. The mine at Coal Mountain is part of the Crowsnest coalfield, which lies in the Fernie Basin, a broad north-trending synclinorium<sup>2</sup>. The host rocks in the Crowsnest district are of the Jurassic Kootenay formation. The strata have been extensively folded and faulted helping in the increase of the apparent thickness of the seams in some areas<sup>3</sup>.</p>
-            <img src="images/coal-1-1.jpg"/>
-            <span>Figure 1: Map of USA and Canada (Google Earth) (above) and expanded map of Coal Mountain location (below).</span>
-            <img src="images/coal-1-2.jpg" />
-            <span>Figure 2: ADR Field Equipment at Coal Mountain.</span>
-            <h3>Adrok’s result</h3>
-            <p>The coal seam has been identified in the subsurface using a combination of Adrok’s interpretation techniques, such as, rank matching, WMF and frequency harmonic log patterns. <br /><br />
-
-Rank matching technique was used to identify coal in the subsurface through changes in the similarities of coal typecasting samples to geophysical results. WMF and frequency harmonic logs (F-gamma and F-ADR) provide clear evidence of lithological changes through variations in their responses. Where these responses are correlated, a coal seam can be identified at Coal Mountain across nine V-Bores (Figure 3). At site AD-1 and AD-2 the base of the coal seam is found to be at 150m depth. This dips eastwards towards the remaining sites up to a shallower depth of around 120m. <br /><br />
-
-Mine workings at 63m depth can be identified on the basis of low dielectrics, high amplitudes on the P-Scan image, and high F-gamma responses (Figure 4). The lateral extent of these workings is shown on the P-scan image and suggests the workings are located between the survey points of 20m and 28m along the survey scan line.</p>
-            <img src="images/coal-1-3.jpg"/>
-            <span>Figure 3: Example of an identified lithological boundary at survey site AD-1
-              correlating the results from the techniques of Rank Matching (F-Gamma), WMF
-              and F-Gamma. The coloured samples in the rank matching spreadsheet indicate
-              coal samples provided by TRL from Coal Mountain. The lithological boundary is
-              placed where a significant shift in rank matching correlates with a low/decreasing
-              WMF and a change in F-Gamma response.</span>
-            <img src="images/coal-1-4.jpg"/>
-            <span>Figure 4: Graphical representation of F-Gamma sampled every 2m along P-scan 
-            line at survey site AD-9 (left) and dielectric curve (right) locating the old mine 
-            workings at 63m based on high F-Gamma values and low DC values.</span>
-            <h3>Benefits to client</h3>
-            <p>Adrok showed that coal layers can be identified and mapped in detail using a combination of the ADR interpretation tools (rank matching, WMF and frequency harmonic logs). Consequently, ADR technology can be used as an alternative to the conventional geophysical methods to identify coal layers in the subsurface quicker, cheaper, greener and in a non-destructive way.</p>
+            <h2>Press Release</h2>
+            <h3>ADROK TECHNOLOGY LEADS EXPLORATION COMPANY TO OIL IN OKLAHOMA</h3>
+            <p>Pioneering technology company Adrok Ltd has successfully located oil in Oklahoma, USA using its cutting-edge scanner technology. <br /><br />
+            The Edinburgh-based firm was able to pin point the location of hydrocarbons on behalf of a US exploration consortium using is its Atomic Dielectric Resonance (ADR) Scanner.  <br /><br />
+            Adrok identified two areas where significant accumulations of oil and gas were situated. Using Adrok’s detailed subsurface images, the consortium, led by an Oklahoma based oil investor, completed drilling and production testing at the site. <br /><br />
+            Drilling and testing has confirmed Adrok’s predictions and an initial well has now been completed which currently produces 1,400,000 cubic feet of gas per day and 22 barrels of oil per day (figure 1). The consortium is now planning further drilling activity on the site which is near to Oklahoma City. The Scanner dramatically reduced the need for expensive and time consuming exploratory drilling. <br /><br />
+            Adrok’s Managing Director, Gordon Stove, said: “This successful exploration activity is further confirmation that our technology brings huge benefits to operators and we look forward to working again with the Oklahoma oil consortium and other companies in the future. We previously worked for another of the investor’s companies in London and it’s a great testament to the technology that he approached us to work with him again in Oklahoma.” <br /><br />
+            The consortium is one of six exploration companies that have used Adrok’s technology in the field. Adork believes its technology can cut the cost of drilling by 70% through dramatically reducing the number of exploration wells needed. <br /><br />
+            Adrok’s highly innovative ADR Scanner works by sending a narrow light beam of energy into the ground using micro and radio waves. The beam is then reflected back by the various rock layers and the energy changed by the materials it has passed through on the way. <br /><br />
+            Reaching proven depths of up to four kilometres, the technology learns how different substances, including hydrocarbons, interact with the light waves passing through them and identifies its composition. <br /><br />
+            Distinct from alternative technologies, the ADR Scanner is not reliant on interpretation or probability and could potentially save oil and gas operators millions of pounds in unnecessary drilling time.</p>
+            <img src="images/petroleum-oklahoma-1.jpg" />
+            <span>Figure 1: Adrok's Scanner accurately  predicated presence of hydrocarbons between 7000 ft depth in the Wilcox at the prospect selected by client for drilling (Prospect#2).</span>
           </div><!-- /.single-article__content -->
-
           <div class="footnotes">
-
             <ol>
-              <li class="note"><a href="https://www.teck.com ">https://www.teck.com</a></li>
-              <li class="note">British Columbia Ministry of Energy and Mines, British Columbia Geological Survey Information Circular 2015-03, British Columbia Coal Industry Overview 2014</li>
-              <li class="note"><a href="http://www.mining-technology.com/projects/coalmt/ ">http://www.mining-technology.com/projects/coalmt/ </a></li>
+              <li class="note">ADROK was set up in 2000 and has invested £3 million in the development of the technology, primarily from management and shareholders, in addition to government funding. The ADR scanner was commercially launched in 2007.</li>
+              <li class="note">Adrok develops and uses advanced technology to supply geophysical services for locating, identifying and mapping subsurface natural resources (oil, gas, water and minerals).   </li>
+              <li class="note">Adrok provides its clients with measurements of the subsurface natural resources, rock types and rock sequences before drilling.</li>
+              <li class="note">Adrok calls its services: Predrilling Virtual Logging ® </li><!-- /.note -->
             </ol>
           </div><!-- /.single-article__footer -->
         </section><!-- /.single-article -->

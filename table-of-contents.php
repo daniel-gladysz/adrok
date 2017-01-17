@@ -140,7 +140,7 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/gold.php"><h3 class="single-chapter__title">07 Gold - CTO</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold.php"><h3 class="single-chapter__title">07 Gold - CTO</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">7.1 ASEG-PESA_2015_Abstract_Submission ADR RESULTS v3 SR-GC-BC</a></li>
               <li><a href="#">7.2 Citigold case study</a></li>
@@ -149,21 +149,21 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/geology.php"><h3 class="single-chapter__title">08 General Geology - Jim Ward</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/08-geology/geology.php"><h3 class="single-chapter__title">08 General Geology - Jim Ward</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">8.1 ADR Surveys 06-08-10 CLEAN</a></li>
             </ul><!-- /.single-chapter__links -->
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/hard-rocks.php"><h3 class="single-chapter__title">09 Hard Rocks & Faults</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/09-hard-rocks/hard-rocks.php"><h3 class="single-chapter__title">09 Hard Rocks & Faults</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">9.1 Case Study 00_GS_Draft</a></li>
             </ul><!-- /.single-chapter__links -->
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/petroleum-oman.php"><h3 class="single-chapter__title">10 Petroleum - Oman</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/10-petroleum-oman/petroleum-oman.php"><h3 class="single-chapter__title">10 Petroleum - Oman</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">10.1 IBD- ADROK- SPE Oman 260910</a></li>
               <li><a href="#">10.2 Case Studies – Oman 1</a></li>
@@ -171,7 +171,7 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/petroleum-oklahoma.php"><h3 class="single-chapter__title">11 Petroleum Oklahoma</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/11-petroleum-oklahoma/petroleum-oklahoma.php"><h3 class="single-chapter__title">11 Petroleum Oklahoma</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">11.1 ADROK Oklahoma PR (1) 2010-August</a></li>
               <li><a href="#">11.2 2010 Oklahoma Case Study</a></li>
@@ -179,7 +179,7 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/onshore-uk.php"><h3 class="single-chapter__title">12 Onshore UK</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/12-onshore-uk/onshore-uk.php"><h3 class="single-chapter__title">12 Onshore UK</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">12.1 00161 Case study write up_DL</a></li>
             </ul><!-- /.single-chapter__links -->

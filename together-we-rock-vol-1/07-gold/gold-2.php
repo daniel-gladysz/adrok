@@ -94,51 +94,48 @@
 
           <ul class="breadcrumbs">
             <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li><a href="coal.php">05 Coal</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>5.1 Case Study 00152CM_OMK</li>
+            <li><a href="gold.php">07 Gold - CTO</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>7.2 Citigold case study</li>
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="single-article__content">
-            <h2>Efficacy test of the application of ADR technology to commercial coal exploration for coal layers and related pathfinder stratigraphy in Coal Mountain, Canada.</h2>
-            <h3>Project aims</h3>
-            <p>The objectives of the geophysical survey at Coal Mountain using ADR scanner methods were firstly, to determine the depth of the coal seam and map how it bends in the subsurface, and secondly, to locate the abandoned mine workings above the coal seam. The field survey was conducted in July 2013 by Adrok on behalf of Teck Resources Limited (“TRL”) in Coal Mountain, Canada. A total of twelve virtual borehole sites were scanned by Adrok.</p>
-            <h3>Exploration/Project challenges</h3>
-            <p>The project challenge was to check if ADR technology could find thin coal seams and old mine workings in depth.</p>
-            <h3>Geological context</h3>
-            <p>Coal Mountain is located 30 kilometres southeast of Sparwood in south-eastern British Columbia<sup>1</sup>. The open-pit coal mine at Coal Mountain in the Elk Valley area is operated by Teck Coal Limited, which is the world’s second-largest exporter of metallurgical coal. The main product shipped from Coal Mountain mine is Pulverized Coal Injection (PCI) coal<sup>2</sup>. The mine at Coal Mountain is part of the Crowsnest coalfield, which lies in the Fernie Basin, a broad north-trending synclinorium<sup>2</sup>. The host rocks in the Crowsnest district are of the Jurassic Kootenay formation. The strata have been extensively folded and faulted helping in the increase of the apparent thickness of the seams in some areas<sup>3</sup>.</p>
-            <img src="images/coal-1-1.jpg"/>
-            <span>Figure 1: Map of USA and Canada (Google Earth) (above) and expanded map of Coal Mountain location (below).</span>
-            <img src="images/coal-1-2.jpg" />
-            <span>Figure 2: ADR Field Equipment at Coal Mountain.</span>
-            <h3>Adrok’s result</h3>
-            <p>The coal seam has been identified in the subsurface using a combination of Adrok’s interpretation techniques, such as, rank matching, WMF and frequency harmonic log patterns. <br /><br />
-
-Rank matching technique was used to identify coal in the subsurface through changes in the similarities of coal typecasting samples to geophysical results. WMF and frequency harmonic logs (F-gamma and F-ADR) provide clear evidence of lithological changes through variations in their responses. Where these responses are correlated, a coal seam can be identified at Coal Mountain across nine V-Bores (Figure 3). At site AD-1 and AD-2 the base of the coal seam is found to be at 150m depth. This dips eastwards towards the remaining sites up to a shallower depth of around 120m. <br /><br />
-
-Mine workings at 63m depth can be identified on the basis of low dielectrics, high amplitudes on the P-Scan image, and high F-gamma responses (Figure 4). The lateral extent of these workings is shown on the P-scan image and suggests the workings are located between the survey points of 20m and 28m along the survey scan line.</p>
-            <img src="images/coal-1-3.jpg"/>
-            <span>Figure 3: Example of an identified lithological boundary at survey site AD-1
-              correlating the results from the techniques of Rank Matching (F-Gamma), WMF
-              and F-Gamma. The coloured samples in the rank matching spreadsheet indicate
-              coal samples provided by TRL from Coal Mountain. The lithological boundary is
-              placed where a significant shift in rank matching correlates with a low/decreasing
-              WMF and a change in F-Gamma response.</span>
-            <img src="images/coal-1-4.jpg"/>
-            <span>Figure 4: Graphical representation of F-Gamma sampled every 2m along P-scan 
-            line at survey site AD-9 (left) and dielectric curve (right) locating the old mine 
-            workings at 63m based on high F-Gamma values and low DC values.</span>
-            <h3>Benefits to client</h3>
-            <p>Adrok showed that coal layers can be identified and mapped in detail using a combination of the ADR interpretation tools (rank matching, WMF and frequency harmonic logs). Consequently, ADR technology can be used as an alternative to the conventional geophysical methods to identify coal layers in the subsurface quicker, cheaper, greener and in a non-destructive way.</p>
+            <h2>GOLD AND SULFIDE TARGETING USING ADROK’s ATOMIC DIELECTRIC RESONANCE (ADR) TECHNIQUE</h2>
+            <h3>CITIGOLD required a technique to resolve a set of complex but non-unique mineral exploration and targeting problems.</h3><br /><br />
+            <h3>AIM:</h3>
+            <p>To locate small (< 50 x 50m) areas of high grade gold mineralisation hosted within a set of semi-predictable and semi-continuous fractures within granitic host rocks (FIG. 1).</p>
+            <p><b>SOME EXPLORATION CHALLENGES:</b><br />
+            1) Mineralization is located directly beneath the city of Charters Towers thereby limiting the use of conventional drilling and other traditional geophysical techniques such as magnetics, gravity, IP, TEM, MT, Seismic reflection.. <br />
+            2) The depth to mineralization is 400m to over 1500m. <br />
+            3) Drilling is extremely slow and expensive and there is a lack of drill pad sites within the city. <br />
+            4) The local granite is extremely hard resulting in an average drilling advance of 30-40m/day). using conventional diamond drilling</p>
+            <img src="images/gold-2-1.jpg" />
+            <span>FIGURE 1.
+            Schematic block diagram illustrating the style of mineralisation characterising the Charters Towers Goldfield. Mineralisation is “narrow-vein” style and occurs as small but very high grade pods and lenses hosted within semi-continuous, planar - or NE-dipping dilatent fractures.</span>
+            <img src="images/gold-2-2.jpg" />
+            <span>RIGURE 2. Map of the Charters Towers area showing major rock type boundaries, major mineralised structures and the location of ADR scans discussed below. Citigold operates three areas of interest for ADR including Warrior (AREA 1), Imperial (AREA 2), and Central (AREA 3). Results are presented for Areas 1 and 2 below.</span>
+            <h3>GEOLOGICAL CONTEXT</h3>
+            <p>- Mineralization is classified as “narrow vein” type as it is hosted within N- or NE-dipping, quartz-bearing dilatant fractures. <br /><br />
+            - Gold occurs with other sulfide phases including Galena (PbS), Pyrite (FeS2), Sphalerite ((Zn,Fe)S). <br /><br /> 
+            - High lead (Galena) grades equate to high gTohlde.sulfide and gold-rich layers within the host fractures are typically less than 30cm thick. - Gold and sulfides occur as lenses or “pods” within the host fracture zone. <br /><br />
+            -Fracturesareupto10mthickbutafrvaectruaregseco1n-t2aminintghqicuka.rtzandcarbonateaswellasnumerouscross-cuttingbasalt,intermediateandfelsicdykes.
+            - The host rock is tonalite or granodiorite with <br /><br />
+            - Sulfides, quartz and low-grade gold ( < 1 - 5 m.g/t) are typically found within most of the fracture zone, however, high grade gold and sulfide lenses (incl. quartz) are typically small (< 100m in longest dimension) but exhibit high gold grades in excess of ~30 m.g/t Au. <br /><br />
+            - The structural controls on the location of high-grade gold mineralization are extremely complex and previous drilling/exploration has been carried out via inefficient diamond drilling
+            </p>
+            <img src="images/gold-2-3.jpg" />
+            <h3>BENEFITS FOR CITIGOLD</h3>
+            <p>FAST DATA ACQUISITION - Acquisition of over 60 individual scans occurred within a few weeks. <br />
+             FAST PROCESSING - Data processing and return of results occurred within a few months. <br />
+             TARGET ACQUISITION - All ADR scans presented an anomaly at the target structure. <br /> 
+             CONFIDENT DEPTH ESTIMATES - Anomalies were within 13m of drilled or inferred target depth. <br /> 
+             VERY LOW IMPACT - Very little to no environmental or social impact.</p>
+             <h3>PROJECT OUTCOMES</h3>
+             <p>- In every case, the ADR technique identified the target structure. Drilling of one of the targets resulted in a significant intercept of 37.9 g/t Au. <br />
+- Up to approximately 20m in position error between the ADR response and the physical structure was recorded. The average difference is, however, only around 5m. <br />
+- No absolute measurement can be used to estimate/infer the grade of the rock at the point of intercept (at this stage). <br />
+- Diamond drilling after anomalies were identified in ADR proved that the ADR is precise in determining where and how many major structures are present in a vertical profile.</p>
           </div><!-- /.single-article__content -->
-
-          <div class="footnotes">
-
-            <ol>
-              <li class="note"><a href="https://www.teck.com ">https://www.teck.com</a></li>
-              <li class="note">British Columbia Ministry of Energy and Mines, British Columbia Geological Survey Information Circular 2015-03, British Columbia Coal Industry Overview 2014</li>
-              <li class="note"><a href="http://www.mining-technology.com/projects/coalmt/ ">http://www.mining-technology.com/projects/coalmt/ </a></li>
-            </ol>
-          </div><!-- /.single-article__footer -->
+      
         </section><!-- /.single-article -->
 
 
