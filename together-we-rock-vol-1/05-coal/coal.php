@@ -9,7 +9,7 @@
       <meta content='width=device-width, initial-scale=1.0, maximum-scale=1' name='viewport'>
       <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
       <link href="https://adrok-assets.s3.amazonaws.com/sites/5278fe8821ba55f86b000002/theme/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-      <link href="../paper.css" media="screen" rel="stylesheet" type="text/css">
+      <link href="../../paper.css" media="screen" rel="stylesheet" type="text/css">
 
       <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js' type='text/javascript'></script>
       <script src='http://code.jquery.com/jquery-migrate-1.2.1.min.js' type='text/javascript'></script>
@@ -67,7 +67,7 @@
 
       <section class='full_width intro'>
         <div class='intro_image'>
-          <img src="../images/bg.jpg">
+          <img src="../../images/bg.jpg">
         </div>
         
         <div class='intro_block '>
@@ -84,7 +84,7 @@
       </section>
 
 
-      <?php include 'section-tabs.php'; ?>
+      <?php include '../section-tabs.php'; ?>
 
 
     <div class='section main_content'>
@@ -93,32 +93,26 @@
         <section class="single-article">
 
           <ul class="breadcrumbs">
-            <li><a href="../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li><a href="morocco.php">06 Gas Sands Morocco</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>6.1 Case Studies – Morocco Gas</li>
+            <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>05 Coal</li>
           </ul><!-- /.single-article__breadcrumb -->
 
-          <div class="single-article__content">
-            <h2>Morocco, North Africa Oil and Gas fields</h2>
-            <h3>Onshore Morocco, thin gas horizons</h3>
-            <ul>
-              <li>Survey Area located in Morocco, North Africa licensed by Caithness Petroleum </li>
-              <li>Adrok trained on 3 drilled well locations (for gas & sedimentary rock layer signatures)</li>
-              <li>Adrok blind test on 5 locations </li>
-              <li>Surface terrain comprised low lying hills and scrubland</li>
-              <li>Tortonian sand reservoirs</li>
-              <li>Gas horizons were very thin (less than 1m thick). </li>
-              <li>Prospect site was 42km offset from training well location</li>
-              <li>The results of the Adrok survey were compared to the actual drilling results (Adrok presented results before drilling commenced).  </li>
-              <li>Adrok produced Virtual borehole log charts</li>
-              <li>No HSE accidents</li>
-            </ul>
-            <img src="images/morocco-1.jpg" />
-            <img src="images/morocco-2.jpg" />
-            <span>Composite Log comparing ADR Scanner results with Seismic AVO, & down-hole tools showed that ADR gas layer findings (red dots) were more accurately identified than AVO (green dots).</span>
-            <h3>Client Conclusions</h3>
-            <img src="images/morocco-3.jpg" />
-          </div><!-- /.single-article__content -->
+          <div class="first-page">
+            <h2 class="first-page__title">Coal</h2>
+            <img src="images/coal.jpg" class="first-page__image" />
+          </div><!-- /.first-page -->
+
+          <div class="table-of-contents">
+            <div class="single-chapter">
+              <h3 class="single-chapter__title">05 Coal</h3>
+              <ul class="single-chapter__links">
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/05-coal/coal-1.php">5.1 Case Study 00152CM_OMK</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/05-coal/coal-2.php">5.2 Case Study 00152EV_OMK</a></li>
+              </ul><!-- /.single-chapter__links -->
+            </div><!-- /.single-chapter -->
+          </div><!-- /.table-of-contents -->
+
+
         </section><!-- /.single-article -->
 
 

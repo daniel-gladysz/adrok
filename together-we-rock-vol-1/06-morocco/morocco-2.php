@@ -9,7 +9,7 @@
       <meta content='width=device-width, initial-scale=1.0, maximum-scale=1' name='viewport'>
       <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
       <link href="https://adrok-assets.s3.amazonaws.com/sites/5278fe8821ba55f86b000002/theme/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-      <link href="../paper.css" media="screen" rel="stylesheet" type="text/css">
+      <link href="../../paper.css" media="screen" rel="stylesheet" type="text/css">
 
       <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js' type='text/javascript'></script>
       <script src='http://code.jquery.com/jquery-migrate-1.2.1.min.js' type='text/javascript'></script>
@@ -67,7 +67,7 @@
 
       <section class='full_width intro'>
         <div class='intro_image'>
-          <img src="../images/bg.jpg">
+          <img src="../../images/bg.jpg">
         </div>
         
         <div class='intro_block '>
@@ -84,7 +84,7 @@
       </section>
 
 
-      <?php include 'section-tabs.php'; ?>
+      <?php include '../section-tabs.php'; ?>
 
 
     <div class='section main_content'>
@@ -93,26 +93,20 @@
         <section class="single-article">
 
           <ul class="breadcrumbs">
-            <li><a href="../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>05 Coal</li>
+            <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li><a href="morocco.php">06 Gas Sands Morocco</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>6.2 Cabre - Jim Ward report on ADR surveys in Morocco</li>
           </ul><!-- /.single-article__breadcrumb -->
 
-          <div class="first-page">
-            <h2 class="first-page__title">Coal</h2>
-            <img src="images/coal.jpg" class="first-page__image" />
-          </div><!-- /.first-page -->
+          <div class="single-article__content">
+            <h2>Download: <a href="pdf/3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf" download="../3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf">3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf</a></h2>
 
-          <div class="table-of-contents">
-            <div class="single-chapter">
-              <h3 class="single-chapter__title">05 Coal</h3>
-              <ul class="single-chapter__links">
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/coal-1.php">5.1 Case Study 00152CM_OMK</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/coal-2.php">5.2 Case Study 00152EV_OMK</a></li>
-              </ul><!-- /.single-chapter__links -->
-            </div><!-- /.single-chapter -->
-          </div><!-- /.table-of-contents -->
+            <object data="../3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf" type="application/pdf">
+            Your browser does not support pdfs, <a href="../3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf">click here to
+            download the file.</a>
+          </object>
 
-
+          </div><!-- /.single-article__content -->
         </section><!-- /.single-article -->
 
 

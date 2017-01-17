@@ -9,7 +9,7 @@
       <meta content='width=device-width, initial-scale=1.0, maximum-scale=1' name='viewport'>
       <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
       <link href="https://adrok-assets.s3.amazonaws.com/sites/5278fe8821ba55f86b000002/theme/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-      <link href="../paper.css" media="screen" rel="stylesheet" type="text/css">
+      <link href="../../paper.css" media="screen" rel="stylesheet" type="text/css">
 
       <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js' type='text/javascript'></script>
       <script src='http://code.jquery.com/jquery-migrate-1.2.1.min.js' type='text/javascript'></script>
@@ -67,7 +67,7 @@
 
       <section class='full_width intro'>
         <div class='intro_image'>
-          <img src="../images/bg.jpg">
+          <img src="../../images/bg.jpg">
         </div>
         
         <div class='intro_block '>
@@ -84,7 +84,7 @@
       </section>
 
 
-      <?php include 'section-tabs.php'; ?>
+      <?php include '../section-tabs.php'; ?>
 
 
     <div class='section main_content'>
@@ -93,7 +93,7 @@
         <section class="single-article">
 
           <ul class="breadcrumbs">
-            <li><a href="../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
             <li>06 Gas Sands Morocco</li>
           </ul><!-- /.single-article__breadcrumb -->
 
@@ -106,8 +106,8 @@
             <div class="single-chapter">
               <h3 class="single-chapter__title">06 Gas Sands Morocco</h3>
               <ul class="single-chapter__links">
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/morocco-1.php">6.1 Case Studies – Morocco Gas</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/morocco-2.php">6.2 Cabre - Jim Ward report on ADR surveys in Morocco</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/06-morocco/morocco-1.php">6.1 Case Studies – Morocco Gas</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/06-morocco/morocco-2.php">6.2 Cabre - Jim Ward report on ADR surveys in Morocco</a></li>
               </ul><!-- /.single-chapter__links -->
             </div><!-- /.single-chapter -->
           </div><!-- /.table-of-contents -->

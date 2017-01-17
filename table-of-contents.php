@@ -94,7 +94,7 @@
           </div><!-- /.header -->
 
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/about.php"><h3 class="single-chapter__title">01 About Adrok</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/01-about/about.php"><h3 class="single-chapter__title">01 About Adrok</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">1.1 About Adrok</a></li>
             </ul><!-- /.single-chapter__links -->
@@ -102,21 +102,21 @@
           </div><!-- /.single_chapter -->
 
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/adr-technology.php"><h3 class="single-chapter__title">02 ADR Technology-Science</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/02-adr-technology/adr-technology.php"><h3 class="single-chapter__title">02 ADR Technology-Science</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">2.1 Technology explained (ADR Technology-Science)_OMK_DRAFT - GS1 - OMK</a></li>
             </ul><!-- /.single-chapter__links -->
           </div><!-- /.single-chapter -->
 
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/australia.php"><h3 class="single-chapter__title">03 Australia</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/03-australia/australia.php"><h3 class="single-chapter__title">03 Australia</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">3.1 Section front cover - Australia</a></li>
             </ul><!-- /.single-chapter__links -->
           </div><!-- /.single-chapter -->
 
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/coalbedmethane.php"><h3 class="single-chapter__title">04 CoalBedMethane BGG</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/04-coalbedmethane/coalbedmethane.php"><h3 class="single-chapter__title">04 CoalBedMethane BGG</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">4.1 Resolving thin coal beds using ADR Poster</a></li>
               <li><a href="#">4.2 Case Studies 2012</a></li>
@@ -124,15 +124,15 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/coal.php"><h3 class="single-chapter__title">05 Coal</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/05-coal/coal.php"><h3 class="single-chapter__title">05 Coal</h3></a>
             <ul class="single-chapter__links">
-              <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/coal-1.php">5.1 Case Study 00152CM_OMK</a></li>
-              <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/coal-2.php">5.2 Case Study 00152EV_OMK</a></li>
+              <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/05-coal/coal-1.php">5.1 Case Study 00152CM_OMK</a></li>
+              <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/05-coal/coal-2.php">5.2 Case Study 00152EV_OMK</a></li>
             </ul><!-- /.single-chapter__links -->
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/morocco.php"><h3 class="single-chapter__title">06 Gas Sands Morocco</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/06-morocco/morocco.php"><h3 class="single-chapter__title">06 Gas Sands Morocco</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">6.1 Case Studies – Morocco Gas</a></li>
               <li><a href="#">6.2 Cabre - Jim Ward report on ADR surveys in Morocco</a></li>

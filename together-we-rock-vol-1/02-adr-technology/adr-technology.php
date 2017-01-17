@@ -9,7 +9,7 @@
       <meta content='width=device-width, initial-scale=1.0, maximum-scale=1' name='viewport'>
       <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
       <link href="https://adrok-assets.s3.amazonaws.com/sites/5278fe8821ba55f86b000002/theme/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-      <link href="../paper.css" media="screen" rel="stylesheet" type="text/css">
+      <link href="../../paper.css" media="screen" rel="stylesheet" type="text/css">
 
       <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js' type='text/javascript'></script>
       <script src='http://code.jquery.com/jquery-migrate-1.2.1.min.js' type='text/javascript'></script>
@@ -67,7 +67,7 @@
 
       <section class='full_width intro'>
         <div class='intro_image'>
-          <img src="../images/bg.jpg">
+          <img src="../../images/bg.jpg">
         </div>
         
         <div class='intro_block '>
@@ -84,7 +84,7 @@
       </section>
 
 
-      <?php include 'section-tabs.php'; ?>
+      <?php include '../section-tabs.php'; ?>
 
 
     <div class='section main_content'>
@@ -93,28 +93,23 @@
         <section class="single-article">
 
           <ul class="breadcrumbs">
-            <li><a href="../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>04 CoalBedMethane BGG</li>
+            <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>02 ADR Technology-Science</li>
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="first-page">
-            <h2 class="first-page__title">Coal Bed Methane</h2>
-            <img src="images/coalbedmethane.jpg" class="first-page__image" />
+            <h2 class="first-page__title">Adrok’s Technology</h2>
+            <img src="images/adr-technology.jpg" class="first-page__image" />
           </div><!-- /.first-page -->
 
           <div class="table-of-contents">
             <div class="single-chapter">
-              <h3 class="single-chapter__title">04 CoalBedMethane BGG</h3>
+              <h3 class="single-chapter__title">02 ADR Technology-Science</h3>
               <ul class="single-chapter__links">
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/coalbedmethane-1.php">4.1 Resolving thin coal beds using ADR Poster</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/coalbedmethane-2.php">4.2 Case Studies 2012</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/02-adr-technology/adr-technology-1.php">2.1 Technology explained (ADR Technology-Science)_OMK_DRAFT - GS1 - OMK</a></li>
               </ul><!-- /.single-chapter__links -->
             </div><!-- /.single-chapter -->
           </div><!-- /.table-of-contents -->
-
-          <div class="first-page">
-            <img src="images/coalbedmethane1.jpg" class="first-page__image" />
-          </div><!-- /.first-page -->
 
 
         </section><!-- /.single-article -->

@@ -9,7 +9,7 @@
       <meta content='width=device-width, initial-scale=1.0, maximum-scale=1' name='viewport'>
       <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
       <link href="https://adrok-assets.s3.amazonaws.com/sites/5278fe8821ba55f86b000002/theme/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-      <link href="../paper.css" media="screen" rel="stylesheet" type="text/css">
+      <link href="../../paper.css" media="screen" rel="stylesheet" type="text/css">
 
       <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js' type='text/javascript'></script>
       <script src='http://code.jquery.com/jquery-migrate-1.2.1.min.js' type='text/javascript'></script>
@@ -67,7 +67,7 @@
 
       <section class='full_width intro'>
         <div class='intro_image'>
-          <img src="../images/bg.jpg">
+          <img src="../../images/bg.jpg">
         </div>
         
         <div class='intro_block '>
@@ -84,7 +84,7 @@
       </section>
 
 
-      <?php include 'section-tabs.php'; ?>
+      <?php include '../section-tabs.php'; ?>
 
 
     <div class='section main_content'>
@@ -93,27 +93,30 @@
         <section class="single-article">
 
           <ul class="breadcrumbs">
-            <li><a href="../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li><a href="australia.php">03 Australia</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>3.1 Section front cover - Australia</li>
+            <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>04 CoalBedMethane BGG</li>
           </ul><!-- /.single-article__breadcrumb -->
 
-          <div class="single-article__content">
-            
+          <div class="first-page">
+            <h2 class="first-page__title">Coal Bed Methane</h2>
+            <img src="images/coalbedmethane.jpg" class="first-page__image" />
+          </div><!-- /.first-page -->
 
-          </div><!-- /.single-article__content -->
+          <div class="table-of-contents">
+            <div class="single-chapter">
+              <h3 class="single-chapter__title">04 CoalBedMethane BGG</h3>
+              <ul class="single-chapter__links">
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/04-coalbedmethane/coalbedmethane-1.php">4.1 Resolving thin coal beds using ADR Poster</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/04-coalbedmethane/coalbedmethane-2.php">4.2 Case Studies 2012</a></li>
+              </ul><!-- /.single-chapter__links -->
+            </div><!-- /.single-chapter -->
+          </div><!-- /.table-of-contents -->
 
-          <div class="footnotes">
+          <div class="first-page">
+            <img src="images/coalbedmethane1.jpg" class="first-page__image" />
+          </div><!-- /.first-page -->
 
-            <ol>
-              <li class="note"><a href="https://www.teck.com ">https://www.teck.com</a></li>
-              <li class="note">British Columbia Ministry of Energy and Mines, British Columbia Geological Survey Information Circular 2015-03, British Columbia Coal Industry Overview 2014</li>
-              <li class="note"><a href="http://www.mining-technology.com/projects/coalmt/ ">http://www.mining-technology.com/projects/coalmt/ </a></li>
-            </ol>
 
-            <span class="note"></span>
-
-          </div><!-- /.single-article__footer -->
         </section><!-- /.single-article -->
 
 
