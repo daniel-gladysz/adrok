@@ -94,21 +94,19 @@
 
           <ul class="breadcrumbs">
             <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>07 Gold - CTO</li>
+            <li>13 Underground mining TCK</li>
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="first-page">
-            <h2 class="first-page__title">Gold Exploration</h2>
-            <img src="images/gold.jpg" class="first-page__image" />
+            <h2 class="first-page__title">Underground Mining</h2>
+            <img src="images/underground.jpg" class="first-page__image" />
           </div><!-- /.first-page -->
 
           <div class="table-of-contents">
             <div class="single-chapter">
-              <h3 class="single-chapter__title">07 Gold - CTO</h3>
+              <h3 class="single-chapter__title">13 Underground mining TCK</h3>
               <ul class="single-chapter__links">
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-1.php">7.1 ASEG-PESA_2015_Abstract_Submission ADR RESULTS v3 SR-GC-BC</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-2.php">7.2 Citigold case study</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-3.php">7.3 ASEG PESA CITIGOLD ADROK PRES 2015 v6pptsml</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/13-underground/underground-1.php">13.1 Case Studies Teck underground mine</a></li>
               </ul><!-- /.single-chapter__links -->
             </div><!-- /.single-chapter -->
           </div><!-- /.table-of-contents -->

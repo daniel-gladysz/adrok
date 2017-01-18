@@ -94,21 +94,20 @@
 
           <ul class="breadcrumbs">
             <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>07 Gold - CTO</li>
+            <li>15 Testimonials client</li>
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="first-page">
-            <h2 class="first-page__title">Gold Exploration</h2>
-            <img src="images/gold.jpg" class="first-page__image" />
+            <h2 class="first-page__title">Testimonials – <br />what our clients say about us</h2>
+            <img src="images/testimonials.jpg" class="first-page__image" />
           </div><!-- /.first-page -->
 
           <div class="table-of-contents">
             <div class="single-chapter">
-              <h3 class="single-chapter__title">07 Gold - CTO</h3>
+              <h3 class="single-chapter__title">15 Testimonials client</h3>
               <ul class="single-chapter__links">
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-1.php">7.1 ASEG-PESA_2015_Abstract_Submission ADR RESULTS v3 SR-GC-BC</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-2.php">7.2 Citigold case study</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-3.php">7.3 ASEG PESA CITIGOLD ADROK PRES 2015 v6pptsml</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/15-testimonials/testimonials-1.php">15.1 Caithness+Petroleum</a></li>
+                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/15-testimonials/testimonials-2.php">15.2 Testimonials - clients</a></li>
               </ul><!-- /.single-chapter__links -->
             </div><!-- /.single-chapter -->
           </div><!-- /.table-of-contents -->

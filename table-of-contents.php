@@ -186,14 +186,14 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/underground.php"><h3 class="single-chapter__title">13 Underground mining TCK</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/13-underground/underground.php"><h3 class="single-chapter__title">13 Underground mining TCK</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">13.1 Case Studies Teck underground mine</a></li>
             </ul><!-- /.single-chapter__links -->
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/water.php"><h3 class="single-chapter__title">14 Water</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/14-water/water.php"><h3 class="single-chapter__title">14 Water</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">14.1 Going Green to Find Blue V 2.0</a></li>
               <li><a href="#">14.2 RB 00140</a></li>
@@ -201,7 +201,7 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/testimonials.php"><h3 class="single-chapter__title">15 Testimonials client</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/15-testimonials/testimonials.php"><h3 class="single-chapter__title">15 Testimonials client</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">15.1 Caithness+Petroleum</a></li>
               <li><a href="#">15.2 Testimonials - clients</a></li>
@@ -209,7 +209,7 @@
           </div><!-- /.single-chapter -->
           
           <div class="single-chapter">
-            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/technical-papers.php"><h3 class="single-chapter__title">16 Technical Papers & Conference Papers</h3></a>
+            <a href="http://localhost:8888/adrok/together-we-rock-vol-1/16-papers/papers.php"><h3 class="single-chapter__title">16 Technical Papers & Conference Papers</h3></a>
             <ul class="single-chapter__links">
               <li><a href="#">16.1 ASEG2015</a></li>
               <li><a href="#">16.2 SEG2014</a></li>

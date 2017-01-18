@@ -94,26 +94,44 @@
 
           <ul class="breadcrumbs">
             <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>07 Gold - CTO</li>
+            <li><a href="underground.php">13 Underground mining TCK</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>13.1 Case Studies Teck underground mine</li>
           </ul><!-- /.single-article__breadcrumb -->
 
-          <div class="first-page">
-            <h2 class="first-page__title">Gold Exploration</h2>
-            <img src="images/gold.jpg" class="first-page__image" />
-          </div><!-- /.first-page -->
+          <div class="single-article__content">
+            <h2>Underground Mine, USA  <br /> with</h2>
+            <img src="images/underground-1.jpg" />
 
-          <div class="table-of-contents">
-            <div class="single-chapter">
-              <h3 class="single-chapter__title">07 Gold - CTO</h3>
-              <ul class="single-chapter__links">
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-1.php">7.1 ASEG-PESA_2015_Abstract_Submission ADR RESULTS v3 SR-GC-BC</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-2.php">7.2 Citigold case study</a></li>
-                <li><a href="http://localhost:8888/adrok/together-we-rock-vol-1/07-gold/gold-3.php">7.3 ASEG PESA CITIGOLD ADROK PRES 2015 v6pptsml</a></li>
-              </ul><!-- /.single-chapter__links -->
-            </div><!-- /.single-chapter -->
-          </div><!-- /.table-of-contents -->
+            <h3>Geotechnical Application</h3>
+            <img src="images/underground-2.png" />
+
+            <ul>
+              <li>Working with Teck Resources Limited to test Geotechnical Application of Adrok Scanner for:
+                <ul>
+                  <li>rock mass characterisation</li>
+                  <li>identification of water</li>
+                </ul>
+              </li>
+              <li>Survey located underground in Teck’s care-and-maintenance mine at Pend Oreille Mine, USA</li>
+              <li>Adrok’s survey results were compared to depths measured by mine’s surveyors (as blind test)</li>
+              <li>No HSE accidents</li>
+            </ul>
+
+            <img src="images/underground-3.jpg" />
+
+            <h3>Relative Dielectric Permittivity (ε<sub>r</sub>)</h3>
+            <p>looking upwards from the u/g access to the MX zone, POM</p>
+            <img src="images/underground-4.png" />
+
+            <h3>Outcome of field trial</h3>
+
+            <ul>
+              <li>Teck Resources Ltd invested $5million for 17.5% equity in Adrok </li>
+              <li>Adrok have also secured a non-exclusive Multi-million dollar Services Agreement with Teck for Adrok to provide geophysical survey services on their global properties for 2012 and 2013 (with an option to exceed thereafter)</li>
+            </ul>
 
 
+          </div><!-- /.single-article__content -->
         </section><!-- /.single-article -->
 
 
