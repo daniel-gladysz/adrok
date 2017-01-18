@@ -99,10 +99,10 @@
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="single-article__content">
-            <h2>Download: <a href="pdf/3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf" download="../3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf">3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf</a></h2>
+            <h2>Download: <a href="pdf/3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf" download="pdf/3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf">3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf</a></h2>
 
-            <object data="../3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf" type="application/pdf">
-            Your browser does not support pdfs, <a href="../3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf">click here to
+            <object data="pdf/3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf" type="application/pdf">
+            Your browser does not support pdfs, <a href="pdf/3 Cabre - Jim Ward report on ADR surveys in Morocco.pdf">click here to
             download the file.</a>
           </object>
 

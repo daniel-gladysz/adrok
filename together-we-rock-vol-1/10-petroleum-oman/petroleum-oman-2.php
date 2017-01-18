@@ -99,9 +99,12 @@
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="single-article__content">
+         
             <h2>Onshore Oman  Oil field</h2>
             <img src="images/petroleum-oman-1.jpg" />
+          
             <h3>Adrok Harmonic Mean Energy between 1300m and 2050m  </h3>
+          
             <img src="images/petroleum-oman-2.jpg" />
             <span>Oil show between 1495m and 1550m</span>
             <span> Oil distinguished by mapping resonant frequencies stored in Adrok’s proprietary database</span>

@@ -94,57 +94,81 @@
 
           <ul class="breadcrumbs">
             <li><a href="../../table-of-contents.php">Contents</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li><a href="petroleum-oklahoma.php">11 Petroleum - Oklahoma</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
-            <li>11.2 2010 Oklahoma Case Study</li>
+            <li><a href="coalbedmethane.php">04 CoalBedMethane BGG</a><div class="breadcrumbs-arrow">&rsaquo;</div></li>
+            <li>2 Case Studies 2012</li>
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="single-article__content">
             
-            <h2>Onshore Oklahoma Oil   field survey for USA Independent</h2>
-            <img src="images/petroleum-oklahoma-2-1.png" />
-           
+            <img src="images/coalbedmethane-2-0.jpg" />
+            <h2>Case History: <br /> Central Scotland, coal bed methane</h2>
             <ul>
-              <li>Survey of an onshore basin located in Oklahoma, USA</li>
-              <li>Surface terrain comprised low lying farmland</li>
-              <li>Adrok trained on 1 drilled well location (for oil, gas & sedimentary rock layer signatures) in basin</li>
-              <li>Adrok did not train or typecast on any cored rock samples </li>
-              <li>Adrok processed and predicted the virtual borehole log (before spudding commenced) </li>
-              <li>Client’s needs were for Adrok to prognose tops of Wilcox rock</li>
-              <li>Depth of ADR penetration was over 7500ft</li>
-              <li>Prospect site was approximately 1km offset from training well location</li>
-              <li>The results of the Adrok survey were compared to the actual drilling results</li>
+              <li>Working with BG Group to develop a reliable coal bed methane exploration and appraisal survey tool based on Adrok’s technology</li>
+              <li>Survey Area located onshore United Kingdom</li>
+              <li>Adrok trained on 4 drilled well locations (for coal signatures and for sedimentary rock & Igneous rock layer signatures)</li>
+              <li>Surface terrain comprised low lying farmland.  Survey sites on pads.</li>
+              <li>Carboniferous marine sequences</li>
+              <li>BG Group is interested in dielectrics as a new measurement to help their subsurface interpretations for tracking coal beds</li>
+              <li>The results of the Adrok survey were compared to the actual drilling results (Adrok presented results before drilling commenced).  </li>
+              <li>Adrok produced Virtual borehole log charts</li>
               <li>No HSE accidents</li>
             </ul>
+            <img src="images/coalbedmethane-2-1.jpg" />
+            <img src="images/coalbedmethane-2-2.jpg" />
+            <img src="images/coalbedmethane-2-3.jpg" />
+            <img src="images/coalbedmethane-2-4.jpg" />
+           
+            <h3>Blind Test – Limestone Coals</h3>
+            <img src="images/coalbedmethane-2-5.jpg" />
             
-            <img src="images/petroleum-oklahoma-2-2.jpg" />
-            <span>Adrok’s 
-              Prognosis in
-              March 2010 
-              (before 
-              client’s 
-              drilling)</span>
+            <h3>Calibration Well - Black Metal Shales</h3>
+            <img src="images/coalbedmethane-2-6.jpg" />
            
-            <img src="images/petroleum-oklahoma-2-3.jpg" />
-            <img src="images/petroleum-oklahoma-2-4.jpg" />
-            <img src="images/petroleum-oklahoma-2-5.jpg" />
-           
+            <h3>Blind Test Well </h3>
+            <img src="images/coalbedmethane-2-7.jpg" />
+          
+            <h3>BG Group’s Conclusions – Dielectric Profiles at Well-sites</h3>
             <ul>
-              <li>Drilling and testing has confirmed Adrok’s predictions.</li>
-            </ul>
-           
-            <img src="images/petroleum-oklahoma-2-6.jpg" />
-           
-            <ul>
-              <li>Adrok’s depth accuracy to oil & gas accumulation was 0.3%</li>
-              <li>The initial well has now been completed and is producing:
+              <li>What is being measured? <br />
+              <p>-  Adrok Dielectric responses</p>
                 <ul>
-                  <li>1,400,000 cubic feet of gas per day</li>
-                  <li>22 barrels of oil per day</li>
+                  <li>Coal has low dielectric < 3</li>
+                  <li>Water has high dielectric 80-81</li>
+                  <li>Calcite has high dielectric 8</li>
                 </ul>
+
               </li>
+              <li>Depth control <br /><p>-  seems good +/- 10 feet</p></li>
+              <li>Coal beds <br /><p>-  prediction is possible but not reliable</p>
+              <p>-  high dielectric – water filled? </p>
+              <p>-  low dielectric- tight? gassy?</p></li>
+              <li>Sand beds <p>-  low dielectric – sands with hydrocarbon? </p><p>-  high dielectric- calcite cemented?</p></li>
+              <li>Volcanics <br /><p>-  High dielectric suggesting its presence at a particular depth</p> </li>
+              <li>Shale Gas beds<p>-  Low dielectric suggests there is organic material in the Black Metal Shales</p></li>
             </ul>
 
+            <h3>Way Forward in Coal Bed Methane </h3>
+
+            <ul>
+              <li>What benefit does the Adrok tool provide to coal bed methane exploration? <br /><p>-  Answer:</p>
+              <ul>
+                <li>Track coal beds</li>
+                <li>Maps water content</li>
+                <li>Accurate depth control +/- 10feet matching to boreholes</li>
+              </ul></li>
+              <li>Next stage is to use ADR’s spectral analysis to ascertain coal quality & improve reliability <br /><p>-   “good” coals versus wet coals</p> </li>
+            </ul>
+
+
+
+
+
+
+
+
+
           </div><!-- /.single-article__content -->
+
         </section><!-- /.single-article -->
 
 

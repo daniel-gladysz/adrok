@@ -99,7 +99,9 @@
           </ul><!-- /.single-article__breadcrumb -->
 
           <div class="single-article__content">
+           
             <h2>Press Release</h2>
+          
             <h3>ADROK TECHNOLOGY LEADS EXPLORATION COMPANY TO OIL IN OKLAHOMA</h3>
             <p>Pioneering technology company Adrok Ltd has successfully located oil in Oklahoma, USA using its cutting-edge scanner technology. <br /><br />
             The Edinburgh-based firm was able to pin point the location of hydrocarbons on behalf of a US exploration consortium using is its Atomic Dielectric Resonance (ADR) Scanner.  <br /><br />
@@ -110,8 +112,10 @@
             Adrok’s highly innovative ADR Scanner works by sending a narrow light beam of energy into the ground using micro and radio waves. The beam is then reflected back by the various rock layers and the energy changed by the materials it has passed through on the way. <br /><br />
             Reaching proven depths of up to four kilometres, the technology learns how different substances, including hydrocarbons, interact with the light waves passing through them and identifies its composition. <br /><br />
             Distinct from alternative technologies, the ADR Scanner is not reliant on interpretation or probability and could potentially save oil and gas operators millions of pounds in unnecessary drilling time.</p>
+          
             <img src="images/petroleum-oklahoma-1.jpg" />
             <span>Figure 1: Adrok's Scanner accurately  predicated presence of hydrocarbons between 7000 ft depth in the Wilcox at the prospect selected by client for drilling (Prospect#2).</span>
+         
           </div><!-- /.single-article__content -->
           <div class="footnotes">
             <ol>
